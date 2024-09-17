@@ -1,0 +1,13 @@
+langchain==0.1.16
+langchain-community==0.0.33
+langchain-core==0.1.44
+langchain-experimental==0.0.57
+langchain-google-genai==1.0.2
+langchain-text-splitters==0.0.1
+PyPDF2==3.0.1
+faiss-cpu==1.8.0
+python-dotenv==0.21.0
+sentence-transformers==2.2.2
+streamlit==1.33.0
+streamlit-lottie==0.0.5
+streamlit-option-menu==0.3.6
